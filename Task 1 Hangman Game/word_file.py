@@ -1,0 +1,12 @@
+words=[
+    "python",
+    "developer",
+    "pakistan",
+    "computer",
+    "soft",
+    "apple",
+    "karachi",
+    "plane",
+    "tomato",
+    "school"
+]
